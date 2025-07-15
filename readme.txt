@@ -128,3 +128,18 @@ Notas
 * La base de datos se crea automáticamente si no existe.
 * El filtrado principal se realiza en backend, pero también se hace filtrado extra en frontend para rapidez visual.
 
+------------------------------------------------------
+
+Referencias y páginas utilizadas:
+
+https://getbootstrap.com/
+https://fastapi.tiangolo.com/
+https://docs.sqlalchemy.org/
+https://pydantic.dev/
+https://reactjs.org/docs/getting-started.html
+https://getbootstrap.com/docs/5.3/components/alerts/
+https://fastapi.tiangolo.com/tutorial/
+https://docs.sqlalchemy.org/en/20/tutorial/
+https://pydantic.dev/usage/models/
+
+
